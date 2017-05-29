@@ -1,0 +1,6 @@
+E:\CSharp Projects\MyProjects\FootballSimulator\FootballSimulator\bin\Debug\FootballSimulator.exe.config
+E:\CSharp Projects\MyProjects\FootballSimulator\FootballSimulator\obj\Debug\FootballSimulator.csprojResolveAssemblyReference.cache
+E:\CSharp Projects\MyProjects\FootballSimulator\FootballSimulator\bin\Debug\FootballSimulator.exe
+E:\CSharp Projects\MyProjects\FootballSimulator\FootballSimulator\bin\Debug\FootballSimulator.pdb
+E:\CSharp Projects\MyProjects\FootballSimulator\FootballSimulator\obj\Debug\FootballSimulator.exe
+E:\CSharp Projects\MyProjects\FootballSimulator\FootballSimulator\obj\Debug\FootballSimulator.pdb
